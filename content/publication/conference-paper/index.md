@@ -54,7 +54,7 @@ url_dataset: ''
 url_poster: ''
 url_project: 'https://aisec.cc'
 url_slides: ''
-url_source: ''
+url_source: 'https://dl.acm.org/doi/10.1145/3560830.3563721'
 url_video: ''
 
 # Featured image
