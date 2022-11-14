@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 title: Publications
 cms_exclude: true
 
