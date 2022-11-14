@@ -14,10 +14,10 @@ subtitle: ''
 
 content:
   # Filter on criteria
-  # filters:
-  #   folders:
-  #     - publication
-  #   tag: ''
+  filters:
+    folders:
+      - publication
+    # tag: ''
   #   category: ''
   #   publication_type: ''
   #   author: ''
